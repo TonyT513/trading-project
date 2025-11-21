@@ -22,3 +22,6 @@ venv/
 *.log
 *.tmp
 .cache/
+!environment.yml
+
+
