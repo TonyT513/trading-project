@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Conda environments and virtualenvs
+.env
+.venv/
+env/
+venv/
+*.conda
+*.yml
+
+# macOS system files
+.DS_Store
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+.cache/
